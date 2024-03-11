@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-```json
-{
+```typescript
+enum Animals { DOG, CAT, TREX }
+
+const me = {
   name: 'Laurent',
   occupation: 'Software Engineer',
   pets: [
