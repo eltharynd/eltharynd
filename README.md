@@ -6,6 +6,7 @@ enum Animals { DOG, CAT, TREX }
 const me = {
   name: 'Laurent',
   occupation: 'Software Engineer',
+  traits: ['ADHD']
   pets: [
     {type: Animals.DOG, name: 'Jack'}
   ]
